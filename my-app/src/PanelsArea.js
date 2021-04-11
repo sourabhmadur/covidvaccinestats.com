@@ -64,10 +64,10 @@ class PanelsArea extends Component {
       return (
         <React.Fragment>
           <Panel data={data1} name="numvaccinated"/>
-          <Panel data={data2} name="totalvaccinated"/>
+          {/* <Panel data={data2} name="totalvaccinated"/>
           <Panel data={data2} name="x1"/>
           <Panel data={data2} name="y1"/>
-          <Panel data={data2} name="z1"/> 
+          <Panel data={data2} name="z1"/>  */}
         </React.Fragment>
 
       )

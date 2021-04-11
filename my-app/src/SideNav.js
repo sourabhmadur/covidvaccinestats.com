@@ -12,9 +12,8 @@ class SideNav extends Component{
                 <ul>
                 <li><a className="active" href="#home">Home</a></li>
                 <li><a href="#stats">Stats</a></li>
-                <li><a href="#stats">Predict</a></li>
-                <li><a href="#contact">Contact</a></li>
-                <li><a href="#about">About</a></li>
+                <li><a href="#stats">Predictions</a></li>
+                <li><a href="#contact">Availability</a></li>
                 </ul>
             </div>
             

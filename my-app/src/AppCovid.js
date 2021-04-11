@@ -1,8 +1,5 @@
 import React, {Component} from 'react'
-// import Table from './Table'
 
-// import Form from './Form'
-// import DropdownButton from 'react-bootstrap/DropdownButton'
 
 import Dropdown from 'react-bootstrap/Dropdown'
 import DropDownBar from './DropDownBar'
@@ -20,9 +17,9 @@ class App extends Component {
     
       return (    
         <div id="root_app">
-        { this.state.visible ? <SideNav/> : null }
+        {/* { this.state.visible ? <SideNav/> : null } */}
         
-          /* <div id="dropdownbar"><DropDownBar/></div>
+          {/* /* <div id="dropdownbar"><DropDownBar/></div> */}
           <div id="panelsarea">   
           <PanelsArea/>
           </div> 
